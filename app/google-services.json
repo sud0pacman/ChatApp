@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935299667598",
+    "project_id": "chatapp-80389",
+    "storage_bucket": "chatapp-80389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935299667598:android:68058e45247ad406a71bdf",
+        "android_client_info": {
+          "package_name": "com.sudo_pacman.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8aT5KzIqT4hJl4TMrpr-CoVhJ2fznEJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
